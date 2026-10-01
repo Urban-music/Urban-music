@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+Disallow: /conta.html
+Disallow: /notificacoes.html
+Disallow: /favoritos.html
+Disallow: /downloads.html
+Disallow: /criar-playlist.html
+Disallow: /artista-painel.html
+Disallow: /artist-panel.js
+Disallow: /urban-music-schema.sql
+
+Sitemap: https://urban-music-gamma.vercel.app/sitemap.xml

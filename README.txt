@@ -1,0 +1,1 @@
+Urban Music V3 — páginas reais. Abra index.html. Navegação usa arquivos HTML separados: biblioteca.html, pesquisa.html, explorar.html, tendencias.html, radios.html, favoritos.html, downloads.html, recentes.html, playlists.html, artistas.html, notificacoes.html, conta.html, criar-playlist.html e genero.html. Métricas demo são 0; Supabase permanece opcional.
